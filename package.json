@@ -1,0 +1,12 @@
+{
+  "name": "simpleenv",
+  "version": "0.0.1",
+  "description": "Load .env file",
+  "scripts": {
+    
+  },
+  "repository": "https://github.com/rodrigok/simpleenv",
+  "author": "Rodrigo K. Nascimento (rodrigoknascimento@gmail.com)",
+  "license": "MIT",
+  "main" : "./lib/index.js"
+}
